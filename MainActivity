@@ -6,7 +6,7 @@ import android.widget.TextView;
 import android.util.Log;
 
 
-public class MainActivity extends Nova {
+public class MainActivity extends DebugActiviti {
 
     // TextView log = (TextView) findViewById(R.id.log);
     @Override
