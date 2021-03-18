@@ -17,3 +17,4 @@ public class BemVindoActivity extends DebugActivity {
         text.setText(nome + ", seja bem vindo.");
     }
 }
+//e
