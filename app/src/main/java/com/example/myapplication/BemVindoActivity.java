@@ -3,7 +3,7 @@ package com.example.myapplication;
 import android.os.Bundle;
 import android.widget.TextView;
 
-public class BemVindoActivity extends DebugActivity {
+public class BemVindoActivity extends MainActivity {
 
     @Override
     protected void onCreate(Bundle savedInstanceState) {

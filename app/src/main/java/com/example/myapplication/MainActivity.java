@@ -26,7 +26,7 @@ public class MainActivity extends DebugActivity {
                 TextView tSenha = (TextView) findViewById(R.id.tSenha);
                 String login = tLogin.getText().toString();
                 String senha = tSenha.getText().toString();
-                if ("leo".equals(login) && "321321".equals(senha)) {
+                if ("leo".equals(login) && "321".equals(senha)) {
                     // Navega para a próxima tela
                     Intent intent = new Intent(MainActivity.this,BemVindoActivity.class);
                     Bundle params = new Bundle();
